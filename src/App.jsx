@@ -137,7 +137,7 @@ export default function App() {
             </a>
 
             <a
-              href="https://github.com/"
+              href="https://github.com/ammu09a"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-2xl border border-slate-700 px-6 py-3 font-semibold transition hover:border-cyan-400 hover:text-cyan-400"
@@ -298,7 +298,7 @@ export default function App() {
 
           <div className="mt-10 flex flex-wrap justify-center gap-4">
             <a
-              href="https://github.com/"
+              href="https://github.com/ammu09a"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-2xl bg-cyan-500 px-6 py-3 font-semibold text-slate-950 transition hover:scale-105"
