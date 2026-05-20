@@ -146,7 +146,7 @@ export default function App() {
             </a>
 
             <a
-              href="www.linkedin.com/in/aman-devops-cloud"
+              href="https://www.linkedin.com/in/aman-devops-cloud"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-2xl border border-slate-700 px-6 py-3 font-semibold transition hover:border-cyan-400 hover:text-cyan-400"
@@ -307,7 +307,7 @@ export default function App() {
             </a>
 
             <a
-              href="www.linkedin.com/in/aman-devops-cloud"
+              href="https://www.linkedin.com/in/aman-devops-cloud"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-2xl border border-slate-700 px-6 py-3 font-semibold transition hover:border-cyan-400 hover:text-cyan-400"
